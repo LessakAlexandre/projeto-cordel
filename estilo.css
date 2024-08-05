@@ -6,7 +6,6 @@
 
 *{
     margin: 0px;
-    font-size: 1em;
     
 }
 :root{
@@ -38,6 +37,7 @@ header > h1{
 header>p{
     padding-bottom: 50px;  
     font-weight: lighter;
+    font-size: large;
 }
 a{
     text-decoration: none;
