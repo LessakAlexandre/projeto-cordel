@@ -1,4 +1,9 @@
 @charset "UTF-8";
+
+:root{
+    
+}
+
 body{
     margin: 0px;
 }
@@ -10,4 +15,24 @@ header{
     font-size: 2em;
     text-align: center;
     padding: 25px;
+}
+main p {
+    width: 600px;
+    font-size: 3em;
+    padding-left: 20px;
+
+}
+section#image1{
+    height: 600px;
+    background-image: url('imagens/background001.jpg');
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 75px;
+}
+section>p{
+    height: 400px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.568);
+    margin: 0px;
 }
