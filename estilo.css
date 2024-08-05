@@ -76,6 +76,7 @@ section#image1>p,section#image2>p{
     background-color: rgba(0, 0, 0, 0.568);
     display: inline-block;
     padding: 10px;
+    text-shadow: 3px 3px 0px black;
 }
 section#image2{
     background-color: rgb(51, 51,51);
